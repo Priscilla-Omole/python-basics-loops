@@ -5,7 +5,7 @@ students=[
     {"name": "Draco", "house":"Slytherin", "patronus": None}
 ]
 
-for student in students:
+for studecdnt in students:
     print(student["name"], student["house"], student["patronus"], sep=",")
 
 
